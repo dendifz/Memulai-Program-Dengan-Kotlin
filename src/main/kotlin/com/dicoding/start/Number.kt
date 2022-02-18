@@ -17,6 +17,9 @@ fun main(){
     readeble()
 }
 
+
+
+
 fun maxmin(){
     val maxInt = Int.MAX_VALUE
     val minInt = Int.MIN_VALUE
